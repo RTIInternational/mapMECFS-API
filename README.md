@@ -27,9 +27,9 @@ Examples in each programming languages are given for the following activities on
 ### Retrieving API Key
 All API requests to mapMECFS require a user specific API key. Follow these simple steps to retrieve your API key.
 1. After logging in, authorized users will be able to navigate to their user account page by finding the link near the top right corner.
-![alt text](https://github.com/RTIInternational/mapMECFS-scripts/blob/main/API-Key/UserProfile.png)
+![alt text](https://github.com/RTIInternational/mapMECFS-API/blob/main/API-Key/UserProfile.png)
 2. On your user account page, your API key is found in the left column. Only you can see your API key.
-![alt text](https://github.com/RTIInternational/mapMECFS-scripts/blob/main/API-Key/API_key.png)
+![alt text](https://github.com/RTIInternational/mapMECFS-API/blob/main/API-Key/API_key.png)
 
 
 ## mapMECFS Portal Implementation
