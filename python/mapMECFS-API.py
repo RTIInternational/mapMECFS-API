@@ -35,6 +35,6 @@ datasetMetadata = mapmecfs.call_action('package_show', {'id': 'me-cfs-and-ifs-ca
 # Use the 'package_search' action to conduct a dataset search of 'case-control'. 
 # The action will return a dictionary with each dataset as an element of the dictionary.
 # A generalized version (no specific query) and specific query is shown below.
-# For the generalized example, replace 'QUERY-HERE' with the disired query.
+# For the generalized example, replace 'QUERY-HERE' with the desired query.
 searchExample_general = mapmecfs.call_action('package_search', {'q': 'QUERY-HERE'})
 searchExample = mapmecfs.call_action('package_search', {'q': 'case-control'})
