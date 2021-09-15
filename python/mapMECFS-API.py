@@ -8,7 +8,6 @@ The user will enter their personal API key in place of the text "API-KEY-HERE"
 The user will need to install the ckanapi (https://github.com/ckan/ckanapi) python module
 CKAN documentation of the API in a general context is available at https://github.com/ckan/ckanapi
 The following commands provide mapMECFS specific queries which an authorized user will be to perform.
-
 """
 
 # Import the ckanapi module
