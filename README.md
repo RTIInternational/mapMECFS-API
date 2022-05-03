@@ -41,4 +41,4 @@ Please contact the mapMECFS support team (mapmecfs@rti.org) with any bug reports
 
 
 ## Citation
-The mapMECFS manuscript is available at https://www.researchsquare.com/article/rs-522847/v1
+The mapMECFS manuscript is available at https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-03127-3
