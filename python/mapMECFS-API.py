@@ -2,8 +2,8 @@
 """
 Python script and commands to access mapMECFS (https://mapmecfs.org/) data via the API
 
-The user will need to retrieve their API key from their mapMECFS user profile page
-The user will enter their personal API key in place of the text "API-KEY-HERE"
+The user will need to retrieve their API token from their mapMECFS user profile page
+The user will enter their personal API token in place of the text "API-TOKEN-HERE"
 
 The user will need to install the ckanapi (https://github.com/ckan/ckanapi) python module
 CKAN documentation of the API in a general context is available at https://github.com/ckan/ckanapi
@@ -13,8 +13,8 @@ The following commands provide mapMECFS specific queries which an authorized use
 # Import the ckanapi module
 from ckanapi import RemoteCKAN
 
-# API call of the mapMECFS portal. Please make sure to retrieve your personal API key from your mapMECFS user profile page
-mapmecfs = RemoteCKAN('https://www.mapmecfs.org', apikey = 'API-KEY-HERE')
+# API call of the mapMECFS portal. Please make sure to retrieve your personal API token from your mapMECFS user profile page
+mapmecfs = RemoteCKAN('https://www.mapmecfs.org', apikey = 'API-TOKEN-HERE')
 
 # Use the 'package_search' action to retrieve a list (as a dictionary ['dict'] object) of all of the datasets you has access to. 
 # Note when 'include_private' option is 'True' all datasets (private and public) are displayed. While when 'include_private' option is 'False' only public datasets will be displayed.
