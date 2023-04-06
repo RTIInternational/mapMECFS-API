@@ -24,7 +24,7 @@ Examples in each programming languages are given for the following activities on
 - Search a particular tag used on mapMECFS
 - Search data on mapMECFS according to a specific query
 
-### Retrieving API Key
+### Creating API Tokens
 All API requests to mapMECFS require a user specific API key. Follow these simple steps to retrieve your API key.
 1. After logging in, authorized users will be able to navigate to their user account page by finding the link near the top right corner.
 ![alt text](https://github.com/RTIInternational/mapMECFS-API/blob/main/API-Authentication/UserProfile.png)
