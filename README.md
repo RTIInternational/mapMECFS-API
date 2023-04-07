@@ -16,7 +16,7 @@ mapMECFS is available to all researchers at https://www.mapmecfs.org/.
 This repository provides detailed documentation of the mapMECFS API to access and search data stored on mapMECFS. Documentation is provided in the curl, python, and R languages. The mapMECFS API is built on the CKAN API, therefore further documentation of available calls is available in the [CKAN API guide](https://docs.ckan.org/en/2.9/api/)
 
 ### Available API Queries
-Examples in each programming languages ([R](https://github.com/RTIInternational/mapMECFS-API/tree/main/R), [python](), and [curl]()) are given for the following activities on mapMECFS.
+Examples in each programming languages ([R](https://github.com/RTIInternational/mapMECFS-API/tree/main/R), [python](https://github.com/RTIInternational/mapMECFS-API/tree/main/python), and [curl](https://github.com/RTIInternational/mapMECFS-API/tree/main/curl)) are given for the following activities on mapMECFS.
 - List of datasets on mapMECFS
 - List of datasets and their metadata on mapMECFS
 - Retrieve a list of all tags used on mapMECFS
